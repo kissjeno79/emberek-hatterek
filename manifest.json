@@ -1,0 +1,368 @@
+[
+ {
+  "sorszam": 1,
+  "eredeti": "1A.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 37.7
+ },
+ {
+  "sorszam": 2,
+  "eredeti": "1B.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 26.8
+ },
+ {
+  "sorszam": 3,
+  "eredeti": "1C.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 68.2
+ },
+ {
+  "sorszam": 4,
+  "eredeti": "1D.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 31.7
+ },
+ {
+  "sorszam": 5,
+  "eredeti": "1E.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 35.3
+ },
+ {
+  "sorszam": 6,
+  "eredeti": "1F.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 74.4
+ },
+ {
+  "sorszam": 7,
+  "eredeti": "1G.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 26.5
+ },
+ {
+  "sorszam": 8,
+  "eredeti": "1H.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 23.2
+ },
+ {
+  "sorszam": 9,
+  "eredeti": "1I.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 24.7
+ },
+ {
+  "sorszam": 10,
+  "eredeti": "1J.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 39.6
+ },
+ {
+  "sorszam": 11,
+  "eredeti": "1M.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 23.8
+ },
+ {
+  "sorszam": 12,
+  "eredeti": "1N.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 33.8
+ },
+ {
+  "sorszam": 13,
+  "eredeti": "1O.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 26.0
+ },
+ {
+  "sorszam": 14,
+  "eredeti": "1Z.jpg",
+  "csalad": 1,
+  "bal_vilagossag": 22.7
+ },
+ {
+  "sorszam": 15,
+  "eredeti": "2.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 74.1
+ },
+ {
+  "sorszam": 16,
+  "eredeti": "2C.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 74.9
+ },
+ {
+  "sorszam": 17,
+  "eredeti": "2D.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 60.1
+ },
+ {
+  "sorszam": 18,
+  "eredeti": "2E.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 64.7
+ },
+ {
+  "sorszam": 19,
+  "eredeti": "2F.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 46.1
+ },
+ {
+  "sorszam": 20,
+  "eredeti": "2G.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 76.3
+ },
+ {
+  "sorszam": 21,
+  "eredeti": "2H.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 60.5
+ },
+ {
+  "sorszam": 22,
+  "eredeti": "2I.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 74.0
+ },
+ {
+  "sorszam": 23,
+  "eredeti": "2J.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 87.8
+ },
+ {
+  "sorszam": 24,
+  "eredeti": "2K.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 43.1
+ },
+ {
+  "sorszam": 25,
+  "eredeti": "2M.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 51.6
+ },
+ {
+  "sorszam": 26,
+  "eredeti": "2N.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 60.1
+ },
+ {
+  "sorszam": 27,
+  "eredeti": "2O.jpg",
+  "csalad": 2,
+  "bal_vilagossag": 70.0
+ },
+ {
+  "sorszam": 28,
+  "eredeti": "3A.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 38.5
+ },
+ {
+  "sorszam": 29,
+  "eredeti": "3B.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 58.6
+ },
+ {
+  "sorszam": 30,
+  "eredeti": "3C.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 49.0
+ },
+ {
+  "sorszam": 31,
+  "eredeti": "3D.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 63.3
+ },
+ {
+  "sorszam": 32,
+  "eredeti": "3E.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 46.6
+ },
+ {
+  "sorszam": 33,
+  "eredeti": "3F.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 72.9
+ },
+ {
+  "sorszam": 34,
+  "eredeti": "3G.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 49.7
+ },
+ {
+  "sorszam": 35,
+  "eredeti": "3I.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 52.1
+ },
+ {
+  "sorszam": 36,
+  "eredeti": "3J.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 76.4
+ },
+ {
+  "sorszam": 37,
+  "eredeti": "3K.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 40.7
+ },
+ {
+  "sorszam": 38,
+  "eredeti": "3M.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 62.5
+ },
+ {
+  "sorszam": 39,
+  "eredeti": "3N.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 54.4
+ },
+ {
+  "sorszam": 40,
+  "eredeti": "3O.jpg",
+  "csalad": 3,
+  "bal_vilagossag": 72.6
+ },
+ {
+  "sorszam": 41,
+  "eredeti": "4.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 41.4
+ },
+ {
+  "sorszam": 42,
+  "eredeti": "4C.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 36.1
+ },
+ {
+  "sorszam": 43,
+  "eredeti": "4D.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 37.1
+ },
+ {
+  "sorszam": 44,
+  "eredeti": "4E.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 33.7
+ },
+ {
+  "sorszam": 45,
+  "eredeti": "4F.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 26.0
+ },
+ {
+  "sorszam": 46,
+  "eredeti": "4G.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 28.4
+ },
+ {
+  "sorszam": 47,
+  "eredeti": "4H.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 25.8
+ },
+ {
+  "sorszam": 48,
+  "eredeti": "4I.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 32.5
+ },
+ {
+  "sorszam": 49,
+  "eredeti": "4J.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 19.5
+ },
+ {
+  "sorszam": 50,
+  "eredeti": "4K.jpg",
+  "csalad": 4,
+  "bal_vilagossag": 25.2
+ },
+ {
+  "sorszam": 51,
+  "eredeti": "5.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 103.6
+ },
+ {
+  "sorszam": 52,
+  "eredeti": "5B.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 70.1
+ },
+ {
+  "sorszam": 53,
+  "eredeti": "5C.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 105.0
+ },
+ {
+  "sorszam": 54,
+  "eredeti": "5D.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 61.8
+ },
+ {
+  "sorszam": 55,
+  "eredeti": "5E.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 79.6
+ },
+ {
+  "sorszam": 56,
+  "eredeti": "5F.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 94.9
+ },
+ {
+  "sorszam": 57,
+  "eredeti": "5G.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 88.2
+ },
+ {
+  "sorszam": 58,
+  "eredeti": "5H.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 44.2
+ },
+ {
+  "sorszam": 59,
+  "eredeti": "5I.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 78.1
+ },
+ {
+  "sorszam": 60,
+  "eredeti": "5J.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 76.4
+ },
+ {
+  "sorszam": 61,
+  "eredeti": "5K.jpg",
+  "csalad": 5,
+  "bal_vilagossag": 54.5
+ }
+]
